@@ -2,7 +2,7 @@
 
 ## Vagrant Cloud
 
-### Location
+### Location of boxes
 
 The box is located at `hashitop/bananas3`
 
